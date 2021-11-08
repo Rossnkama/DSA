@@ -1,6 +1,6 @@
 # Day 2, Third task
 
-## Don't forget about RAM! - 15 mins!
+## Complexity normalization - 15 mins!
 
 Let's analyse and discuss the complexities of the code blocks below:
 
