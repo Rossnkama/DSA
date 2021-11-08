@@ -1,5 +1,5 @@
 # Day 2, Morning
-## Understanding Big O Notation properly
+## Understanding Big O Notation properly - 1 hr!
 Big O is a really abstract way to label the performance of an algorithm. You might be thinking to yourself, why don't we measure algorithm performance in a concrete unit like time (milliseconds)?
 
 Great question, let's play with some code and see for ourselves.
