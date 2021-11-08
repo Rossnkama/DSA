@@ -24,24 +24,28 @@ We know that the next int is a set number of bytes away, so we just have to do s
 ---
 #### 2. Update value at a given index
 ```>>> array[0] = 6;```
+
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 3. Insert value at beginning of array
 ```>>> array.add(0, yourInteger);```
+
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 4. Insert value in middle of array
 ```>>> arrayList.add(middleOfArray, yourInteger);```
+
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 5. Insert value at end of array
 ```Watch out: ArrayList and Array have different complexities```
+
 O(?) - Explanation: 
 - Why  might array and arrayList have different complexities?
 
@@ -50,18 +54,21 @@ O(?) - Explanation:
 ---
 #### 6. Remove value from the beginning of the array
 ```>>> arrayList.remove(beginningOfArray, yourInteger);```
+
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 7. Remove value from the middle of the array
 ```>>> arrayList.add(middleOfArray, yourInteger);```
+
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 8. Remove value from the end of the array
 ```>>> arrayList.add(endOfArray, yourInteger);```
+
 O(?) - Explanation: 
 [ Insert your explanation ]
 
@@ -70,5 +77,6 @@ There are many methods that secretly do this:
 ``````java
 e.g. Arrays.asList(array).subList(index, array.length);
 ``````
+
 O(?) - Explanation: 
 [ Insert your explanation ]
