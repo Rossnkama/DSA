@@ -23,19 +23,19 @@ We know that the next int is a set number of bytes away, so we just have to do s
 
 ---
 #### 2. Update value at a given index
-```Example: array[0] = 6;```
+```>>> array[0] = 6;```
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 3. Insert value at beginning of array
-```Example: array.add(0, yourInteger);```
+```>>> array.add(0, yourInteger);```
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 4. Insert value in middle of array
-```Example: arrayList.add(middleOfArray, yourInteger);```
+```>>> arrayList.add(middleOfArray, yourInteger);```
 O(?) - Explanation: 
 [ Insert your explanation ]
 
@@ -49,19 +49,19 @@ O(?) - Explanation:
 
 ---
 #### 6. Remove value from the beginning of the array
-```Example: arrayList.remove(beginningOfArray, yourInteger);```
+```>>> arrayList.remove(beginningOfArray, yourInteger);```
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 7. Remove value from the middle of the array
-```Example: arrayList.add(middleOfArray, yourInteger);```
+```>>> arrayList.add(middleOfArray, yourInteger);```
 O(?) - Explanation: 
 [ Insert your explanation ]
 
 ---
 #### 8. Remove value from the end of the array
-```Example: arrayList.add(endOfArray, yourInteger);```
+```>>> arrayList.add(endOfArray, yourInteger);```
 O(?) - Explanation: 
 [ Insert your explanation ]
 
