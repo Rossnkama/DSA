@@ -10,6 +10,7 @@ int n = 100;
 int[] initialiseArray(int size = n);
 ```
 Space complexity = ?
+
 Time complexity = ?
 
 ---
