@@ -22,6 +22,7 @@ for (int i=0; i < 9; i++) {
 }
 ```
 Space complexity = ?
+
 Time complexity = ?
 
 ---
@@ -33,6 +34,7 @@ for (int number : array) {
 }
 ```
 Space complexity = ?
+
 Time complexity = ?
 
 ---
@@ -46,6 +48,7 @@ for (int i=0; i < 100; i++) {
 }
 ```
 Space complexity = ?
+
 Time complexity = ?
 
 ---
@@ -63,6 +66,7 @@ for (int i=0; i < 100; i++) {
 }
 ```
 Space complexity = ?
+
 Time complexity = ?
 
 ---
@@ -77,6 +81,7 @@ for (char character : greeting) {
 }
 ```
 Space complexity = ?
+
 Time complexity = ?
 
 ## Homework
