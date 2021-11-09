@@ -59,6 +59,19 @@ for (int i=0; i < 100; i++) {
 ```
 Complexity = ?
 
+---
+
+### 5. 
+``` java
+String greeting = "Hello world!";
+String upperString = "";
+
+for (char character : greeting) {
+    upperstring += character.toUpper();
+}
+```
+Complexity = ?
+
 ## Homework
 Research and implement the bubble sort algorithm with the optimal space-time complexity in Java for tomorrows lesson.
 
