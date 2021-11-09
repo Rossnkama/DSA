@@ -9,7 +9,8 @@ Let's analyse and discuss the complexities of the code blocks below:
 int n = 100;
 int[] initialiseArray(int size = n);
 ```
-Complexity = ?
+Space complexity = ?
+Time complexity = ?
 
 ---
 
@@ -19,7 +20,8 @@ for (int i=0; i < 9; i++) {
 	System.out.println(i);
 }
 ```
-Complexity = ?
+Space complexity = ?
+Time complexity = ?
 
 ---
 ### 3. 
@@ -29,7 +31,8 @@ for (int number : array) {
 	System.out.println(number)
 }
 ```
-Complexity = ?
+Space complexity = ?
+Time complexity = ?
 
 ---
 ### 4. 
@@ -41,7 +44,8 @@ for (int i=0; i < 100; i++) {
 	}
 }
 ```
-Complexity = ?
+Space complexity = ?
+Time complexity = ?
 
 ---
 
@@ -57,7 +61,8 @@ for (int i=0; i < 100; i++) {
 	System.out.println(r + b);
 }
 ```
-Complexity = ?
+Space complexity = ?
+Time complexity = ?
 
 ---
 
@@ -70,7 +75,8 @@ for (char character : greeting) {
     upperstring += character.toUpper();
 }
 ```
-Complexity = ?
+Space complexity = ?
+Time complexity = ?
 
 ## Homework
 Research and implement the bubble sort algorithm with the optimal space-time complexity in Java for tomorrows lesson.
