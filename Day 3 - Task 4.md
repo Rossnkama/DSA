@@ -5,7 +5,7 @@
 ## Linked Lists
 Let's analyse and discuss the complexities of the code blocks below.
 
-I know each add operation etc is hardcoded but let's analyse the general complexity of an N sized linked list.
+I know each add operation etc is hardcoded but let's analyse the general complexity of an N sized linked list for each example.
 
 ### 1. Accessing head node
 ``` java
