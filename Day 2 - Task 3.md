@@ -1,6 +1,6 @@
 # Day 2, Third task
 
-## Complexity normalization - 30 mins!
+## Complexity normalization - 20 mins!
 
 Let's analyse and discuss the complexities of the code blocks below:
 
